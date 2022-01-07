@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victor, @vic-techwriter.
-- 👀 My career is in Technical Communication career. A main interest of mine is structured-authoring technology.
+- 👀 My career is in Technical Communication. A main interest of mine is structured-authoring technology.
 - 🌱 I’m currently learning to parse with JavaScript by using parsers like Acorn.
 
 <!---
